@@ -1,0 +1,6 @@
+/Users/angel/Documents/vim/CSh/ADT/ADT/bin/Debug/ADT.exe
+/Users/angel/Documents/vim/CSh/ADT/ADT/bin/Debug/ADT.pdb
+/Users/angel/Documents/vim/CSh/ADT/ADT/obj/x86/Debug/ADT.csprojAssemblyReference.cache
+/Users/angel/Documents/vim/CSh/ADT/ADT/obj/x86/Debug/ADT.csproj.CoreCompileInputs.cache
+/Users/angel/Documents/vim/CSh/ADT/ADT/obj/x86/Debug/ADT.exe
+/Users/angel/Documents/vim/CSh/ADT/ADT/obj/x86/Debug/ADT.pdb

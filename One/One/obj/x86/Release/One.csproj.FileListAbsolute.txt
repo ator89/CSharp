@@ -1,0 +1,3 @@
+/Users/angel/Documents/vim/CSh/One/One/bin/Release/One.exe
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Release/One.csproj.CoreCompileInputs.cache
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Release/One.exe

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{EC14C884-9F0A-4DF4-9C1B-E1B4E4536F03}|Default">
+  <MonoDevelop.Ide.ItemProperties.One PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="One/Usuario.cs">
+    <Files>
+      <File FileName="One/Program.cs" Line="32" Column="25" />
+      <File FileName="One/Person.cs" Line="13" Column="27" />
+      <File FileName="One/Usuario.cs" Line="14" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="One" expanded="True">
+            <Node name="One" expanded="True">
+              <Node name="Usuario.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

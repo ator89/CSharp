@@ -1,0 +1,6 @@
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/bin/Debug/HolaMundo.exe
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/bin/Debug/HolaMundo.pdb
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.csprojAssemblyReference.cache
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.csproj.CoreCompileInputs.cache
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.exe
+/Users/angel/Documents/vim/CSh/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.pdb

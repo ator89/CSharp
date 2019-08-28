@@ -1,0 +1,6 @@
+/Users/angel/Documents/vim/CSh/One/One/bin/Debug/One.exe
+/Users/angel/Documents/vim/CSh/One/One/bin/Debug/One.pdb
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Debug/One.csprojAssemblyReference.cache
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Debug/One.csproj.CoreCompileInputs.cache
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Debug/One.exe
+/Users/angel/Documents/vim/CSh/One/One/obj/x86/Debug/One.pdb

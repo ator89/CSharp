@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5CF15F76-F599-41A9-8D83-50337C237C36}|Default">
+  <MonoDevelop.Ide.ItemProperties.ADT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ADT/Admin.cs">
+    <Files>
+      <File FileName="ADT/Persona.cs" Line="14" Column="22" />
+      <File FileName="ADT/Admin.cs" Line="20" Column="10" />
+      <File FileName="ADT/Usuario.cs" Line="17" Column="24" />
+      <File FileName="ADT/Node.cs" Line="18" Column="9" />
+      <File FileName="ADT/ListaEnlazada.cs" Line="1" Column="1" />
+      <File FileName="ADT/Program.cs" Line="55" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ADT" expanded="True">
+            <Node name="ADT" expanded="True">
+              <Node name="Admin.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{59D57DBA-5353-4443-9FBE-62163549D314}|Default">
+  <MonoDevelop.Ide.ItemProperties.HolaMundo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HolaMundo/Program.cs">
+    <Files>
+      <File FileName="HolaMundo/Program.cs" Line="38" Column="1" />
+      <File FileName="HolaMundo/MiClase.cs" Line="20" Column="1" />
+      <File FileName="HolaMundo/Test.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HolaMundo" expanded="True">
+            <Node name="HolaMundo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
